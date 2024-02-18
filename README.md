@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swereta
 - 👀 I’m interested in data optimization
 - 🌱 I’m currently learning about web development
-- 📫 How to reach me ...
+- 📫 How to reach me: www.linkedin.com/in/swereta 
   
 
   
